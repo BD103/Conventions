@@ -1,2 +1,4 @@
 __pycache__/
 .replit
+.git/
+.upm/

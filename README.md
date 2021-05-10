@@ -4,5 +4,5 @@ I find coding to be weird. There are so many ways to do it, with so many tools t
 
 ## Table of Contents
 
-<sub>nothing here</sub>
-<!-- TOC -->
+- [Markup](markup)
+  - [Markdown](markup/markdown.md)
