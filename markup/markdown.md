@@ -1,4 +1,4 @@
-# Markup/Markdown
+# Markup / Markdown
 
 Markdown is the most common markup language I have seen. It is supported by many coding environments, and has a multitude of flavors.
 
